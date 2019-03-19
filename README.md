@@ -46,6 +46,15 @@ To run the final pipeline, type: python -m pipeline
 
 This will get the test dataset from ./data/HOV and ./data/test.
 
+# Results:
+
+pos images: 56, accuracy: 0.39285714285714285
+
+neg images: 50, accuracy: 0.98
+
+total images: 106, accuracy: 0.6698113207547169
+
+
 # Other executable code I authored/modified:
 
 1) Standalone car classification: python car_model.py
