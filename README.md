@@ -41,6 +41,8 @@ source .env/bin/activate
 
 pip install -r requirements.txt
 
+It might be the case that some of the subfolders are not properly included in thsi git repo because they had come from other git repositories and I have since made changes to them and git doesn't allow adding subfolders that are also repositories.  Please contact me directly if you'd like access to the missing code/data files. All source code changes have been copied to the parent directory for completeness.
+
 # Main script to run:
 To run the final pipeline, type: python -m pipeline
 
